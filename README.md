@@ -5,7 +5,7 @@ Welcome to my **Tetris Clone** project! This game recreates the classic Tetris e
 ---
 
 ## 📸 Screenshot  
-<img width="1440" alt="Tetris Webite" src="https://github.com/user-attachments/assets/84b75c6e-3b49-4fa7-a785-53467a36b85e">
+<img width="914" alt="Tetris Webite" src="https://github.com/user-attachments/assets/1c1a31ff-e09c-4069-a491-a1295d770ad1">
 
 ---
 
